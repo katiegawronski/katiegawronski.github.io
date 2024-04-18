@@ -119,9 +119,6 @@ input, select, textarea {
 		text-decoration: underline; /* Apply underline on hover */
 	}
 
-		a:hover {
-			color: #43bff0 !important;
-		}
 
 		a img {
 			border: 0;

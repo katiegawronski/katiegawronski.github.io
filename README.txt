@@ -1,3 +1,10 @@
+This is a simple portfolio website for Katie Gawronski, Canisius University Student/Alumni 
+
+Created by Andrew Perreault, another Canisius University Student/Alumni.
+
+The site was created using a Template from HTML5UP, for which the original README / credit is below:
+
+
 Miniport by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
